@@ -49,7 +49,7 @@
         </q-item>
         <q-item clickable v-ripple to="/my-Courses" active-class="my-menu-link">
           <q-item-section avatar>
-            <q-icon name="keyboard_alt" />
+            <q-icon name="auto_stories" />
           </q-item-section>
           <q-item-section> My courses </q-item-section>
         </q-item>
